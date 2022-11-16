@@ -19,6 +19,7 @@ function NavSm() {
     </>
   );
 }
+
 function NavMd() {
   return (
     <>
@@ -42,6 +43,7 @@ function NavMd() {
     </>
   );
 }
+
 function NavLg() {
   return (
     <>
@@ -84,6 +86,7 @@ function NavLg() {
     </>
   );
 }
+
 // Main Component
 const Navbar = () => {
   return (
@@ -103,4 +106,5 @@ const Navbar = () => {
     </nav>
   );
 };
+
 export default Navbar;
