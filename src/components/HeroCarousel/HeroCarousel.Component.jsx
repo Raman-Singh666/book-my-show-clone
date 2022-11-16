@@ -44,7 +44,6 @@ const HeroCarousel = () => {
     arrows: true,
     slidesToShow: 1,
     infinite: true,
-    speed: 500,
     slideToScroll: 1,
     nextArrow: <NextArrow />,
     prevArrow: <PrevArrow />,
